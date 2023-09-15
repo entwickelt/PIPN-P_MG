@@ -1,7 +1,7 @@
 # PIPN-P_MG
 
 ## DSA501_Fall2023 
-### Mounika Goruganthu
+### Week3 Task2
 
 <p> 
 <u>Step1</u>: In the GitHub landing page, click on "New" to create a new repo. </br></br>
