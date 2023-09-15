@@ -8,7 +8,7 @@
 <u>Step2</u>: In the new repo page, specify the name, select the option to add a 'Readme.md' file. We will be using the readme file to keep track of all the steps. </br></br>
 <u>Step3</u>: Next click on 'Commit Changes'</br></br>
 <u>Step4</u>: With this, the actions in the GitHub page are complete. </br></br>
-<u>Step5</u>: Now, in Jupyter Notebook's landing page, click on 'New' and then 'Terminal'. This will open the terminal GUI in a new window. </br></br>
+<u>Step5</u>: Now, in Jupyter Notebook's landing page, click on 'New' and then 'Terminal'. This will open the terminal in a new window. </br></br>
 <u>Step6</u>: In the terminal, type "git clone [repo address]" and press enter. </br></br>
 <u>Step7</u>: We will see : Cloning into 'PIPN-P_MG'... Receiving objects: 100% (6/6), done. </br></br>
 <u>Step8</u>: Go back to the Jupyter Notebook landing page, we will find the new repo among the list of folders. Click to open and check if it looks the same as in the GitHub website. </br></br>
