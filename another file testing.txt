@@ -1,0 +1,2 @@
+I created a new text file in Jupyter notebook gui. 
+I will next attempt to add this to my github repo using the add, commit and push commands. 
