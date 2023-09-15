@@ -23,4 +23,4 @@
 <u>Step17</u>: Go back to the repo in GitHub and refresh the page if needed. Et voila! We now see our new files in the repo.</br></br>
 </p>
 
-### With these steps, we found a way to <i>seamlessly</i> create new files in our coding/ developing environment and to <i>upload</i> them to a code sharing/ collaborating platform like GitHub.
+### With these steps, we found a way to <i>seamlessly</i> create new files in our coding/ developing environment and to <i>sync</i> them to a code sharing/ collaborating platform like GitHub.
