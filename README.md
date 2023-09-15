@@ -15,4 +15,11 @@ Step8: Go back to the Jupyter Notebook landing page, we will find the new repo a
 Step9: Open the new repo "PIPN-N_MG" in Jupyter interface, create a new notebook and title it 'Python - IPython - Numpy and Pandas' </r>
 Step10: Proceed to make notes in the file. When done, go to 'File' ---> 'Download as HTML (.html)' </br>
 Step11: Upload the html file back into Jupyter in the same folder.</br>
-Step12: 
+Step12: Now navigate back to the terminal, type 'dir' to check if the repo can be found. If the cloning was successsful, it should show up among the list of directories. </br>
+Step13: Next, type "cd PIPN-P_MG" and press enter. The working directory should be the PythonIPython one. We can see that with the cursor -- PS C:\Users\mgulp\PIPN-P_MG>. Again type 'dir' to ensure that the files we created in Jupyter are there. </br>
+Step14: While in the current directory, type 'git add .' to add all the files we created. </br>
+Step15: Next type 'git commit -m "added a text file"' </br>
+Step16: Next, type 'git push'. We will see a message: To https://github.com/entwickelt/PIPN-P_MG.git; lf3fe91..eab1ec3  main -> main. </br>
+Step17: Go back to the GitHub website to the repo and refresh the page. Et voila! We now see our new files in the repo.</br>
+
+## With these steps, we found a way to <b>seamlessly</b> create new files in our coing/ developing environment and to <i>upload</i> them to a code sharing/ collaborating platform like GitHub.
