@@ -3,7 +3,7 @@
 ## DSA501_Fall2023 
 ### Mounika Goruganthu
 
-
+<p>
 **Step1**: In the GitHub landing page, click on "New" to create a new repo. </br></br>
 <b>Step2</b>: In the new repo page, specify the name, and option to add a 'Readme.md' file. We will be using the readme file to keep track of all the steps. </br></br>
 <b>Step3</b>: Next click on 'Commit Changes'</br></br>
@@ -21,5 +21,5 @@
 <b>Step15</b>: Next type 'git commit -m "added a text file"' </br></br>
 <b>Step16</b>: Next, type 'git push'. We will see a message: To https://github.com/entwickelt/PIPN-P_MG.git; lf3fe91..eab1ec3  main -> main. </br></br>
 <b>Step17</b>: Go back to the GitHub website to the repo and refresh the page. Et voila! We now see our new files in the repo.</br></br>
-
+</p>
 ## With these steps, we found a way to <b>seamlessly</b> create new files in our coing/ developing environment and to <i>upload</i> them to a code sharing/ collaborating platform like GitHub.
