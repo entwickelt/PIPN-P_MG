@@ -22,4 +22,4 @@
 <b>Step16</b>: Next, type 'git push'. We will see a message: To https://github.com/entwickelt/PIPN-P_MG.git; lf3fe91..eab1ec3  main -> main. </br></br>
 <b>Step17</b>: Go back to the GitHub website to the repo and refresh the page. Et voila! We now see our new files in the repo.</br></br>
 </p>
-## With these steps, we found a way to <b>seamlessly</b> create new files in our coing/ developing environment and to <i>upload</i> them to a code sharing/ collaborating platform like GitHub.
+## With these steps, we found a way to <i>seamlessly</i> create new files in our coing/ developing environment and to <i>upload</i> them to a code sharing/ collaborating platform like GitHub.
