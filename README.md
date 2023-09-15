@@ -3,7 +3,7 @@
 ## DSA501_Fall2023 
 ### Mounika Goruganthu
 
-<p>
+<p> 
 Step1: In the GitHub landing page, click on "New" to create a new repo. </br></br>
 <b>Step2</b>: In the new repo page, specify the name, and option to add a 'Readme.md' file. We will be using the readme file to keep track of all the steps. </br></br>
 <b>Step3</b>: Next click on 'Commit Changes'</br></br>
